@@ -1,5 +1,5 @@
 Hey, I'm Kelvin Opoku Mensah
-Aspiring AI Engineer | IT Student at GCTU | Python Developer in Progress
+Aspiring AI Engineer | IT Student | Python Developer in Progress
 I'm an Information Technology student passionate about building software, solving problems, and exploring how AI can address real-world challenges.
 My journey is centered on developing strong programming fundamentals, learning to think like an engineer, and turning ideas into working projects. I'm currently strengthening my Python skills through hands-on practice while working toward my long-term goal of becoming an AI Engineer.
 I believe the best way to learn technology is to build with it — one concept, one challenge, and one project at a time.
